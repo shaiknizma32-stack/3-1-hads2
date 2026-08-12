@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Agent Workflow Lab</string>
+
+    <string name="title">AI Agent Workflow Lab</string>
+
+    <string name="hint_input">Enter your command...</string>
+
+    <string name="analyze">Analyze</string>
+
+    <string name="perception">Perception</string>
+
+    <string name="reasoning">Reasoning</string>
+
+    <string name="action">Action</string>
+
+</resources>
